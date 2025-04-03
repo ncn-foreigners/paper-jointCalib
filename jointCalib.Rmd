@@ -1,29 +1,31 @@
 ---
-title: "ToOoOlTiPs: An R Package for Customizable Tooltips in Interactive Graphics"
-date: "2022-11-09"
+title: "jointCalib: A Joint Calibration of Totals and Quantiles"
+date: "2025-04-03"
 abstract: >
   An abstract of less than 150 words.
 draft: true
 editor: source
 author:  
-  - name: Quietest Quokka
-    affiliation: University of Little Mates
+  - name: Maciej Beręsewicz
+    affiliation: 
+      Poznań University of Economics and Business
+      Statistical Office in Poznań
     address:
-    - Department of Letter Q
-    - Somewhere, Australia
+    - Department of Statistics, Al. Niepodległości 10, 61-875 Poznań, Poland
+    - Centre for the Methodology of Population Studies, Wojska Polskiego 27/29, 60-624 Poznań Poland
     url: https://www.britannica.com/animal/quokka
-    orcid: 0000-1721-1511-1101
-    email:  qquo@ulm.edu
-  - name: Bounciest Bilby
+    orcid: 0000-0002-8281-4301
+    email:  maciej.beresewicz@ue.poznan.pl
+  - name: Marcin Szymkowiak
     affiliation:
-    - University of Little Mates
-    - University of Aussie Animals
+      Poznań University of Economics and Business
+      Statistical Office in Poznań
     address:
-    - Department of Letter Q, Somewhere, Australia
-    - Department of Marsupials, Somewhere, Australia
+    - Department of Statistics, Al. Niepodległości 10, 61-875 Poznań, Poland
+    - Wojska Polskiego 27/29, 60-624 Poznań Poland
     url: https://www.britannica.com/animal/bilby
-    email: bbil@ulm.edu
-    orcid: 0000-0002-0912-0225
+    email: marcin.szymkowiak@ue.poznan.pl
+    orcid: 0000-0003-3432-4364
 type: package
 output: 
   rjtools::rjournal_article:

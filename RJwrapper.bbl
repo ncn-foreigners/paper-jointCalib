@@ -1,0 +1,39 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Cheng and Sievert(2021)]{crosstalk}
+J.~Cheng and C.~Sievert.
+\newblock \emph{{crosstalk}: Inter-Widget Interactivity for HTML Widgets},
+  2021.
+\newblock URL \url{https://CRAN.R-project.org/package=crosstalk}.
+\newblock R package version 1.1.1.
+
+\bibitem[Horst et~al.(2020)Horst, Hill, and Gorman]{palmerpenguins}
+A.~M. Horst, A.~P. Hill, and K.~B. Gorman.
+\newblock \emph{{palmerpenguins}: Palmer Archipelago (Antarctica) penguin
+  data}, 2020.
+\newblock URL \url{https://allisonhorst.github.io/palmerpenguins/}.
+\newblock R package version 0.1.0.
+
+\bibitem[Sievert(2020)]{plotly}
+C.~Sievert.
+\newblock \emph{{Interactive Web-Based Data Visualizatio}n with R, plotly, and
+  shiny}.
+\newblock Chapman and Hall/CRC, 2020.
+\newblock ISBN 9781138331457.
+\newblock URL \url{https://plotly-r.com}.
+
+\bibitem[Wang and Cook(2021)]{RJ-2021-050}
+E.~Wang and D.~Cook.
+\newblock Conversations in time: interactive visualisation to explore
+  structured temporal data.
+\newblock \emph{The R Journal}, 2021.
+\newblock \doi{10.32614/RJ-2021-050}.
+\newblock URL
+  \url{https://journal.r-project.org/archive/2021/RJ-2021-050/index.html}.
+
+\end{thebibliography}
